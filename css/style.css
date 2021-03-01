@@ -54,7 +54,7 @@ body {
 }
 
 .header {
-    background: url("../images/775.jpeg") no-repeat center top;
+    background: url("../images/fndo.jpeg") no-repeat center top;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -296,6 +296,11 @@ ul.wmuSliderPagination {
     width: 85%;
     margin: 0 auto;
     padding-top: 2%;
+}
+
+.works-section .works-header p {
+    height: 100%;
+    font-size: 16px;
 }
 
 .works-header h2 {
