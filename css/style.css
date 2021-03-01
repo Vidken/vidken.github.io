@@ -89,11 +89,13 @@ body {
 }
 
 .top-menu ul li a:hover {
-    color: #ef664d;
+    background-color: #000;
+    opacity: .5;
+    padding: 1em;
 }
 
 .top-menu ul li a.active {
-    color: #ef664d;
+    color: #fff;
     font-weight: 600;
 }
 
