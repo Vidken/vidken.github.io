@@ -1,0 +1,21 @@
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) {
+    .camaleon {
+        width: 100%;
+    }
+    .test {
+        width: 100%;
+        padding-left: 25%;
+        padding-right: 25%;
+    }
+    .certificados {
+        height: 100%;
+    }
+    .works-section .works-header p {
+        height: 100%;
+    }
+    .services-section .container .services-sectiongrids .services-grid .certificados {
+        width: 100%;
+    }
+}
+
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2) {}
